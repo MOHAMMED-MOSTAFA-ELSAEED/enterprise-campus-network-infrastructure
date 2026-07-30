@@ -85,7 +85,7 @@ enterprise-campus-network/
 1. Download and install **Cisco Packet Tracer** (v8.0+ recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/MOHAMMED-MOSTAFA-ELSAEED/enterprise-campus-network.git
+   git clone https://github.com/MOHAMMED-MOSTAFA-ELSAEED/enterprise-campus-network-infrastructure.git
    ```
 3. Open `topology/enterprise_campus_network.pkt` inside Packet Tracer.
 4. Execute test scenarios:
