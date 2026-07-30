@@ -99,3 +99,5 @@ enterprise-campus-network/
 **Mohammed Mostafa Elsaeed**  
 *Computer Engineering Student | Network Infrastructure & DevOps Enthusiast*  
 Email: [mohammed.mostafa.elsaeed@gmail.com](mailto:mohammed.mostafa.elsaeed@gmail.com)
+•
+[LinkedIn](https://www.linkedin.com/in/mohammed-mostafa-elsaeed/) • [GitHub](https://github.com/MOHAMMED-MOSTAFA-ELSAEED)
